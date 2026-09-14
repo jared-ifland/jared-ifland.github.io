@@ -116,14 +116,14 @@ analytics:
 author:
   name             : "Jared Ifland"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : # "I am an **amazing** person."
+  bio              :  "Graduate student in the Department of Philosophy at UC Davis."
   location         : # "Somewhere"
   email            : "jared-ifland@gmail.com"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:jared-ifland@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
