@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "Jared Ifland"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/webpage-photo.jpeg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              :  "Graduate student in the Department of Philosophy at UC Davis."
   location         : # "Somewhere"
   email            : # "jared-ifland@gmail.com"
