@@ -51,12 +51,12 @@
   h5,
   h6 {
     margin-bottom: 0;
-    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+    font-family: Optima, Candara, 'Noto Sans', source-sans-pro, sans-serif;
   }
 
   p,
   li {
-    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+    font-family: Optima, Candara, 'Noto Sans', source-sans-pro, sans-serif;
     font-size: $type-size-6;
     line-height: 1.5;
   }
@@ -188,7 +188,7 @@
   position: relative;
   display: table-cell;
   vertical-align: middle;
-  font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+  font-family: Optima, Candara, 'Noto Sans', source-sans-pro, sans-serif;
   z-index: 20;
   cursor: pointer;
 
