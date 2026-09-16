@@ -8,9 +8,9 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-$default-sans-serif: Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-$default-serif: Palatino Linotype, Georgia, Times, serif;
-$default-monospace: Monaco, Consolas, "Lucida Console", monospace;
+$default-sans-serif: Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$default-serif: Palatino Linotype, Georgia, Times, serif !default;
+$default-monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
 $global-font-family: $sans-serif !default;
 $header-font-family: $sans-serif !default;
