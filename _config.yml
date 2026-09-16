@@ -118,7 +118,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              :  "Graduate student in the Department of Philosophy at UC Davis."
   location         : # "Somewhere"
-  email            : "jared-ifland@gmail.com"
+  email            : # "jared-ifland@gmail.com"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
