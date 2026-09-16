@@ -116,7 +116,7 @@ analytics:
 author:
   name             : # "Jared Ifland"
   avatar           : /assets/images/webpage-photo.jpeg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              :  "Philosopher and logician in training at UC Davis."
+  bio              : "Philosopher and logician in training at UC Davis."
   location         : # "Somewhere"
   email            : # "jared-ifland@gmail.com"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
