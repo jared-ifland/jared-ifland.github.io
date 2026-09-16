@@ -21,7 +21,7 @@ title                    : "Jared Ifland"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jared Ifland"
-description              : "An amazing website."
+description              : "The academic website for Jared Ifland, philosopher and logician in training."
 url                      : "https://jared-ifland.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : jared-ifland/jared-ifland.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -116,7 +116,7 @@ analytics:
 author:
   name             : # "Jared Ifland"
   avatar           : /assets/images/webpage-photo.jpeg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              :  "Graduate student in the Department of Philosophy at UC Davis."
+  bio              :  "Philosopher and logician in training at UC Davis."
   location         : # "Somewhere"
   email            : # "jared-ifland@gmail.com"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
@@ -162,7 +162,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-  # since: "2013"
+ since: "2013"
 
 
 # Reading Files
