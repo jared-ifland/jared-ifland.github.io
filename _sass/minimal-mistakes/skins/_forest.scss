@@ -2,6 +2,12 @@
    Forest skin
    ========================================================================== */
 
+/*
+$bamboo                     : #006442 !default;
+$hanada                     : #044F8F !default;
+$turkishaqua                : #006191 !default;
+*/
+
 /* Colors */
 $text-color: #000 !default;
 $muted-text-color: $text-color !default;
@@ -9,9 +15,9 @@ $primary-color: #b60000 !default;
 $border-color: mix(#fff, $text-color, 75%) !default;
 $footer-background-color: #000 !default;
 $link-color: #0000ff !default;
-$masthead-link-color: $text-color !default;
-$masthead-link-color-hover: $text-color !default;
-$navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+$masthead-link-color: #006442 !default;
+$masthead-link-color-hover: #006442 !default;
+$navicon-link-color-hover: mix(#fff, #006442, 80%) !default;
 
 /* contrast syntax highlighting (base16) */
 $base00: #000000 !default;
