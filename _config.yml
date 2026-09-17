@@ -114,7 +114,7 @@ analytics:
 
 # Site Author
 author:
-  name             : # "Jared Ifland"
+  name             : "Jared Ifland"
   avatar           : /assets/images/webpage-photo.jpeg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Philosopher and logician in training at UC Davis."
   location         : # "Somewhere"
