@@ -17,17 +17,17 @@ minimal_mistakes_skin    : "forest" # "default", "air", "aqua", "contrast", "dar
 # Site Settings
 locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Jared Ifland"
+title                    : "The Land of If"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Jared Ifland's online home." # site tagline that appears below site title in masthead
 name                     : "Jared Ifland"
-description              : "The academic website for Jared Ifland, philosopher and logician in training."
+description              : "The academic website for Jared Ifland, philosopher and logician in training at UC Davis."
 url                      : "https://jared-ifland.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : jared-ifland/jared-ifland.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # /assets/images/utah.jpeg
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "The Land of If" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
