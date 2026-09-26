@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: https://jared-ifland.github.io/
   - title: "Research"
-  # url: 
+    url: /research/
   - title: "Events"
     url: /events/
   - title: "Teaching"
