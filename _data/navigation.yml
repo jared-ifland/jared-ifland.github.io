@@ -7,7 +7,7 @@ main:
   - title: "Events"
   # url:
   - title: "Teaching"
-  # url:
+    url: /teaching/
   - title: "CV"
   # url: 
   - title: "About Me"
