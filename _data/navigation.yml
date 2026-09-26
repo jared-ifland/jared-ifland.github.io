@@ -2,15 +2,15 @@
 main:
   - title: "Home"
     url: https://jared-ifland.github.io/
-  - title: "About Me"
-  # url: 
   - title: "Research"
   # url: 
-  - title: "Presentations"
+  - title: "Events"
   # url:
   - title: "Teaching"
   # url:
   - title: "CV"
+  # url: 
+  - title: "About Me"
   # url: 
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
