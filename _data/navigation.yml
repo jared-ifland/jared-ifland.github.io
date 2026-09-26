@@ -11,7 +11,7 @@ main:
   - title: "CV"
   # url: 
   - title: "About Me"
-    url: https://jared-ifland.github.io/about/
+    url: /about/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
