@@ -26,7 +26,7 @@ url                      : "https://jared-ifland.github.io" # the base hostname 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : jared-ifland/jared-ifland.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # /assets/images/utah.jpeg
-logo                     : /assets/images/labyrinth_circle.jpeg # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : /assets/images/labyrinth_circle.svg # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
