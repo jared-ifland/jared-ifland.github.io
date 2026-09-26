@@ -5,7 +5,7 @@ main:
   - title: "Research"
   # url: 
   - title: "Events"
-  # url:
+    url: /events/
   - title: "Teaching"
     url: /teaching/
   - title: "CV"
