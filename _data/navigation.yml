@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-  # url: https://jared-ifland.github.io/
+    url: https://jared-ifland.github.io/
   - title: "About Me"
   # url: 
   - title: "Research"
